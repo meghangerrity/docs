@@ -2,8 +2,8 @@
 author:
     name: Linode Community
     email: docs@linode.com
-description: 'Install a Counter Strike: Global Offensive server on Ubuntu 14.04'
-keywords: 'counter strike,counter strike global offensive,csgo,game servers,games,ubuntu,ubuntu 14.04,steam,cs,cs:go'
+description: 'Install a Counter Strike: Global Offensive (CS:GO) server on Ubuntu 14.04'
+keywords: 'counter strike,counter strike 1.6,counter strike 1.6 servers,counter strike source server, counter strike server hosting,counter strike global offensive,csgo,csgo servers,game servers,games,ubuntu,ubuntu 14.04,steam,cs,cs:go'
 license: '[CC BY-ND 3.0](http://creativecommons.org/licenses/by-nd/3.0/us/)'
 published: 'Thursday, July 23rd, 2015'
 modified: Thursday, July 23rd, 2015
